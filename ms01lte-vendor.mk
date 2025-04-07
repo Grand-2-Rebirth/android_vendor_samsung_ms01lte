@@ -17,4 +17,5 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/ms01lte/proprietary/vendor/firmware/sec_s3fnrn3_firmware.bin:system/vendor/firmware/sec_s3fnrn3_firmware.bin \
-	vendor/samsung/ms01lte/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so
+	vendor/samsung/ms01lte/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
+	vendor/samsung/ms01lte/proprietary/vendor/lib/nfc_nci.msm8226.so:system/vendor/lib/nfc_nci.msm8226.so
